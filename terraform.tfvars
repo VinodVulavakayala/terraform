@@ -1,0 +1,6 @@
+rgname = "aks-rg"
+location = "southcentralus"
+kv_name = "aks-kv-123"
+tenant_id= "xxxxxx"
+app_displayname = "aks-app"
+spn_name = "aks-spn"
